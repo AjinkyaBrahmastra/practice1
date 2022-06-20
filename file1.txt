@@ -6,4 +6,8 @@ Branch b1 modifications
 
 Branch b1 modifications no.2
 
+<<<<<<< HEAD
 Branch b1 modifications no.3
+=======
+Branch b2 modifications NO.1
+>>>>>>> b2
